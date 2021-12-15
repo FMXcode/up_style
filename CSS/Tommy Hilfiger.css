@@ -1,0 +1,171 @@
+body{
+	color: while;
+	font-size: 15px;
+	font-family: 'Open Sans', sans-serif;
+	padding: 0;
+	margin: 0;
+	color: black;
+}
+
+div, p, input, button, form, span, a, ul, li{
+	box-sizing: border-box;
+}
+h1, h2, h3, h4, h5, h6{
+	margin: 0;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 900;
+	text-transform: uppercase;
+}
+.container{
+	width: 1170px;
+	margin: 0 auto;
+	align-items: center;
+}
+
+.header-title{
+	width: 1550px;
+	margin-left: -185px;
+	background-color: #000;
+	position: fixed;
+	display: flex;
+	justify-content: space-between;
+}
+
+.logo{
+	width: 45px;
+	margin-left: 30px;
+	margin-bottom: 10px;
+	height: 40px;
+	margin-top: 10px;
+}
+
+.menu{
+	margin-left: 280px;
+	font-family: 'Roboto', sans-serif;
+	margin-top: 30px;
+	font-size: 14px;
+}
+
+.menu1{
+	margin-left: 60px;
+	color: #fff;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	text-decoration: none;
+}
+
+
+.pubg{
+	margin-right: 50px;
+	padding-bottom: 20px;
+	margin-left: 260px;
+	height: 30px;
+	margin-top: 20px;
+}
+
+.header{
+margin-bottom: 100px;
+}
+
+.text-h3{
+	padding-top: 150px;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 400;
+	width: 300px;
+	fz15
+	letter-spacing: 1.8px;
+}
+
+.top{
+	display: flex;
+}
+
+.tommy{
+	margin-top: 150px;
+}
+
+.text{
+	margin-left: 50px;
+}
+
+.text-p{
+	font-weight: 900;
+	font-size: 25px;
+	letter-spacing: 3px;
+}
+
+.black{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+}
+
+.color-p{
+	text-transform: uppercase;
+	font-weight: 900;
+	font-size: 13px;
+}
+
+.size{
+	display: block;
+	width: 300px;
+	height: 40px;
+	padding: 10px;
+}
+
+.size:hover{
+	-webkit-box-shadow: 1px 4px 31px -5px rgba(4, 216, 236, 0.3);
+	-moz-box-shadow: 1px 4px 31px -5px rgba(4, 216, 236, 0.3);
+	box-shadow: 1px 4px 31px -5px rgba(4, 216, 236, 0.3);
+}
+
+.btn{
+	display: block;
+	width: 250px;
+	height: 40px;
+	background-color: #218359;
+	color: #fff;
+	text-decoration: none;
+	text-align: center;
+	padding: 10px;
+}
+
+.pubg{
+	vertical-align: middle;
+	display: flex;
+	margin-left: -1px;
+}
+
+.likes{
+	margin: 5px 20px;
+	display: block;
+	width: 30px;
+	text-align: center;
+}
+
+.delivery-photo{
+	width: 60px;
+	height: 40px;
+	margin-top: 50px;
+}
+
+.delivery{
+	display: flex;
+	border: 1px solid #fff;
+}
+
+.delivery-text{
+	margin-top: 60px;
+}
+
+.photo-age{
+	margin-top: 10px;
+	width: 30px;
+	height: 25px;
+	margin-left: 15px;
+}
+
+.text-age{
+	margin-top: 16px;
+	margin-left: 15px;
+}
